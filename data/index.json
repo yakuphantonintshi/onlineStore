@@ -1,0 +1,43 @@
+{
+    "results":[
+        
+            {
+                    "productName":"Lenovo",
+                    "category": "Laptop",
+                    "description": "Fast laptop with a good RAM",
+                    "amount": 4500.50,
+                    "image":"https://yakuphantonintshi.github.io/myimages/Images/lenovo.jpg"
+                },
+                {
+                    "productName":"Headphones",
+                    "category": "Headphones",
+                    "description": "good volume",
+                    "ammount": 450.50,
+                    "image":"https://yakuphantonintshi.github.io/myimages/Images/headphones.jpg"
+                },
+                {
+                    "productName":"IPhone charger",
+                    "category": "Charger",
+                    description: "Fast charger",
+                    ammount: 600.00,
+                    image:"https://yakuphantonintshi.github.io/myimages/Images/iphone charger.jpg"
+                },
+                {
+                    id: 4,
+                    productName:"Keyboard",
+                    category: "Computer Keyboard",
+                    description: "Get yourself this amazing keyboard for your computer",
+                    ammount: 550.50,
+                    image:"https://yakuphantonintshi.github.io/myimages/Images/keyboard.jpg"
+                },
+                {
+                    id: 5,
+                    productName:"Mouse",
+                    category: "Mouse",
+                    description: "Get this amazing mouse",
+                    ammount: 300.50,
+                    image:"https://yakuphantonintshi.github.io/myimages/Images/mouse.jpg"
+                }
+        ]
+    
+}
